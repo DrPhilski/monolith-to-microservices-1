@@ -34,13 +34,14 @@ export default function Home() {
     <div className={classes.root}>
       <Paper className={classes.paper}>
         <Typography variant="h5">
-          Fancy Fashion &amp; Style Online
+          Placeholder &amp; placeholder for online verbiage!
         </Typography>
         <br />
         <Typography variant="body1">
-          Tired of mainstream fashion ideas, popular trends and societal norms?
-          This line of lifestyle products will help you catch up with the Fancy trend and express your personal style.
-          Start shopping Fancy items now!
+          blah blah blah blah blah? blah blah! blah blah blahahalbjbllah allblahblalblahblalbhalbh!!! 
+          blah blah blah blah blah? blah blah! blah blah blahahalbjbllah allblahblalblahblalbhalbh!!!
+          blah blah blah blah blah? blah blah! blah blah blahahalbjbllah allblahblalblahblalbhalbh!!!
+          blah blah blah blah blah? blah blah! blah blah blahahalbjbllah allblahblalblahblalbhalbh!!!
         </Typography>
       </Paper>
     </div>
